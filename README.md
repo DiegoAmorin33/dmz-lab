@@ -11,7 +11,7 @@ Contenido del repositorio
 
 | `DMZ_PROJECT.pka` | Archivo Packet Tracer con la configuración completa |
 | `informe/Informe_DMZ_Laboratorio.md` | Informe técnico del laboratorio |
-| `evidencias/` | Capturas de pantalla de las pruebas de validación |
+ Capturas de pantalla de las pruebas de validación |
 
 Topología
 
